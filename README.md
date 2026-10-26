@@ -28,7 +28,6 @@ A powerful, modern, and animated graphical interface to download your favorite m
 *   **📥 Video Download**: Universal MP4 (H.264) up to Best Available or specific resolutions (1080p, 720p, etc.).
 *   **🎵 Audio Extraction**: MP3 format with customizable bitrate (128, 192, 256, 320 kbps).
 *   **💿 Lossless Audio**: WAV format for pure audio quality.
-*   **🚀 Suno Support**: Native support for downloading tracks directly from Suno (no cookies required).
 *   **🛡️ Unrestricted Mode**: Bypass `yt-dlp` blacklists to grab media from restricted sites.
 *   **🎨 Cyberpunk UI**: Dark mode, neon animations, spinning loaders, and a clickable signature.
 
@@ -79,7 +78,6 @@ Un outil puissant, moderne et animé avec interface graphique pour télécharger
 *   **📥 Téléchargement Vidéo** : MP4 universel (H.264) jusqu'à la meilleure qualité ou des résolutions spécifiques (1080p, 720p, etc.).
 *   **🎵 Extraction Audio** : Format MP3 avec choix du bitrate (128, 192, 256, 320 kbps).
 *   **💿 Audio Lossless** : Format WAV pour une qualité audio pure.
-*   **🚀 Support Suno** : Support natif pour télécharger directement depuis Suno (sans cookies).
 *   **🛡️ Mode Unrestricted** : Contourne les listes noires de `yt-dlp` pour les sites restreints.
 *   **🎨 Interface Cyberpunk** : Mode sombre, animations néon, et signature cliquable.
 
