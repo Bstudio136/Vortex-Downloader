@@ -1,10 +1,9 @@
-<div align="center">
+<h2 align="center">🌀 Choose your language / Choisissez votre langue</h2>
 
-# 🌀 Choose your language / Choisissez votre langue
-
-🇬🇧 **[English](#english)** &nbsp;|&nbsp; 🇫🇷 **[Français](#français)**
-
-</div>
+<p align="center">
+  <a href="#english">🇬🇧 <b>English</b></a> &nbsp;|&nbsp; 
+  <a href="#français">🇫🇷 <b>Français</b></a>
+</p>
 
 ---
 
