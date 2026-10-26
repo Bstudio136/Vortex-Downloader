@@ -56,6 +56,21 @@ You need **FFmpeg** installed on your system for MP3/WAV conversion and MP4 merg
 *   **macOS**: `brew install ffmpeg`
 *   **Linux**: `sudo apt install ffmpeg`
 
+## 👨‍💻 Author
+
+**Bstudio136**
+
+- 🐙 GitHub : [@Bstudio136](https://github.com/Bstudio136)
+- 🎵 TikTok : [@bstudio136](https://tiktok.com/@bstudio136)
+- 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
+- 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
+
+## 📄 License
+
+This project is under the MIT License. You are free to use and modify it for your own needs.
+
+<a href="https://hiddenswap.com/pay/AgRPwfFe" target="_blank" rel="noopener"><img src="https://hiddenswap.com/pay/AgRPwfFe/button.svg" alt="Donate with any coin" width="247" height="44"></a>
+
 ---
 
 <a name="français"></a>
@@ -106,8 +121,17 @@ Vous devez avoir **FFmpeg** installé sur votre système pour que la conversion 
 *   **macOS** : `brew install ffmpeg`
 *   **Linux** : `sudo apt install ffmpeg`
 
-<br>
+## 👨‍💻 Auteur
 
-<div align="center">
-  <i>Developed with ❤️ by <a href="https://github.com/Bstudio136">Bstudio136</a></i>
-</div>
+**Bstudio136**
+
+- 🐙 GitHub : [@Bstudio136](https://github.com/Bstudio136)
+- 🎵 TikTok : [@bstudio136](https://tiktok.com/@bstudio136)
+- 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
+- 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
+
+## 📄 Licence
+
+Ce projet est sous licence MIT. Vous êtes libre de l'utiliser et de le modifier pour vos propres besoins.
+
+<a href="https://hiddenswap.com/pay/AgRPwfFe" target="_blank" rel="noopener"><img src="https://hiddenswap.com/pay/AgRPwfFe/button.svg" alt="Donate with any coin" width="247" height="44"></a>
