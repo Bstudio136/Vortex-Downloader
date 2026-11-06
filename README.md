@@ -24,30 +24,36 @@ A powerful, modern, and animated graphical interface to download your favorite m
 *(Add a screenshot of your app here later by dragging and dropping an image)*
 
 ### ✨ Features
-* **📥 Video Download**: Universal MP4 (H.264) up to Best Available or specific resolutions (1080p, 720p, etc.).
-* **🎵 Audio Extraction**: MP3 format with customizable bitrate (128, 192, 256, 320 kbps).
-* **💿 Lossless Audio**: WAV format for pure audio quality.
-* **🛡️ Unrestricted Mode**: Bypass yt-dlp blacklists to grab media from restricted sites.
-* **🎨 Cyberpunk UI**: Dark mode, neon animations, spinning loaders, and a clickable signature.
+*   **📥 Video Download**: Universal MP4 (H.264) up to Best Available or specific resolutions (1080p, 720p, etc.).
+*   **🎵 Audio Extraction**: MP3 format with customizable bitrate (128, 192, 256, 320 kbps).
+*   **💿 Lossless Audio**: WAV format for pure audio quality.
+*   **🛡️ Unrestricted Mode**: Bypass `yt-dlp` blacklists to grab media from restricted sites.
+*   **🎨 Cyberpunk UI**: Dark mode, neon animations, spinning loaders, and a clickable signature.
 
 ### 🚀 Quick Start & Installation
 
 **1. Clone the repository:**
+```bash
 git clone https://github.com/Bstudio136/Vortex-Downloader.git
 cd Vortex-Downloader
+```
 
 **2. Install dependencies:**
 *(Note: The app will also attempt to auto-install these on the first run)*
+```bash
 pip install customtkinter yt-dlp requests
+```
 
 **3. Run the application:**
+```bash
 python downloader.py
+```
 
 ### ⚠️ Important Note
 You need **FFmpeg** installed on your system for MP3/WAV conversion and MP4 merging to work.
-* **Windows**: `winget install ffmpeg`
-* **macOS**: `brew install ffmpeg`
-* **Linux**: `sudo apt install ffmpeg`
+*   **Windows**: `winget install ffmpeg`
+*   **macOS**: `brew install ffmpeg`
+*   **Linux**: `sudo apt install ffmpeg`
 
 ## 👨‍💻 Author
 
@@ -57,6 +63,7 @@ You need **FFmpeg** installed on your system for MP3/WAV conversion and MP4 merg
 - 🎵 TikTok : [@bstudio136](https://tiktok.com/@bstudio136)
 - 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
 - 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
+
 
 ## 📄 License
 
@@ -83,30 +90,36 @@ Un outil puissant, moderne et animé avec interface graphique pour télécharger
 *(Ajoutez une capture d'écran de votre application ici plus tard en glissant-déposant une image)*
 
 ### ✨ Fonctionnalités
-* **📥 Téléchargement Vidéo** : MP4 universel (H.264) jusqu'à la meilleure qualité ou des résolutions spécifiques (1080p, 720p, etc.).
-* **🎵 Extraction Audio** : Format MP3 avec choix du bitrate (128, 192, 256, 320 kbps).
-* **💿 Audio Lossless** : Format WAV pour une qualité audio pure.
-* **🛡️ Mode Unrestricted** : Contourne les listes noires de yt-dlp pour les sites restreints.
-* **🎨 Interface Cyberpunk** : Mode sombre, animations néon, et signature cliquable.
+*   **📥 Téléchargement Vidéo** : MP4 universel (H.264) jusqu'à la meilleure qualité ou des résolutions spécifiques (1080p, 720p, etc.).
+*   **🎵 Extraction Audio** : Format MP3 avec choix du bitrate (128, 192, 256, 320 kbps).
+*   **💿 Audio Lossless** : Format WAV pour une qualité audio pure.
+*   **🛡️ Mode Unrestricted** : Contourne les listes noires de `yt-dlp` pour les sites restreints.
+*   **🎨 Interface Cyberpunk** : Mode sombre, animations néon, et signature cliquable.
 
 ### 🚀 Lancement Rapide & Installation
 
 **1. Cloner le dépôt :**
+```bash
 git clone https://github.com/Bstudio136/Vortex-Downloader.git
 cd Vortex-Downloader
+```
 
 **2. Installer les dépendances :**
 *(Note : L'application tentera également de les installer automatiquement au premier lancement)*
+```bash
 pip install customtkinter yt-dlp requests
+```
 
 **3. Lancer l'application :**
+```bash
 python downloader.py
+```
 
 ### ⚠️ Note Importante
 Vous devez avoir **FFmpeg** installé sur votre système pour que la conversion MP3/WAV et la fusion MP4 fonctionnent.
-* **Windows** : `winget install ffmpeg`
-* **macOS** : `brew install ffmpeg`
-* **Linux** : `sudo apt install ffmpeg`
+*   **Windows** : `winget install ffmpeg`
+*   **macOS** : `brew install ffmpeg`
+*   **Linux** : `sudo apt install ffmpeg`
 
 ## 👨‍💻 Auteur
 
@@ -116,6 +129,7 @@ Vous devez avoir **FFmpeg** installé sur votre système pour que la conversion 
 - 🎵 TikTok : [@bstudio136](https://tiktok.com/@bstudio136)
 - 🐦 Twitter / X : [@Bstudio136](https://x.com/Bstudio136)
 - 📺 YouTube : [@Bstudio136](https://www.youtube.com/@Bstudio136)
+
 
 ## 📄 Licence
 
